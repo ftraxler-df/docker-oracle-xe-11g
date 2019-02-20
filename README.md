@@ -1,6 +1,8 @@
 docker-oracle-xe-11g
 ============================
 
+**This is a backup copy of the original repo, because of the deletion of the docker image on docker hub**
+
 Oracle Express Edition 11g Release 2 on Ubuntu 18.04 LTS
 
 <del>This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/wnameless/oracle-xe-11g/) of [Docker Registry](https://registry.hub.docker.com/).</del>
